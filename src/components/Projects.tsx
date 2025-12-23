@@ -15,8 +15,8 @@ const Projects = () => {
         "Firebase",
         "AI APIs",
       ],
-      liveLink: "https://medibot.ai.com",
-      githubLink: "",
+      liveLink: "https://www.medibot-ai.com/",
+      githubLink: "https://github.com/Reshmasudeepa/MEDIBOT",
     },
     {
       title: "MediVax Portal",
@@ -24,7 +24,7 @@ const Projects = () => {
         "Vaccination management portal to track vaccine details, schedules, and healthcare records with a clean and user-friendly interface.",
       techStack: ["React", "JavaScript", "Tailwind CSS", "Vercel"],
       liveLink: "https://medivaxportal.vercel.app/",
-      githubLink: "",
+      githubLink: "https://github.com/Reshmasudeepa/vacc",
     },
     {
       title: "SRKR College Homepage",
